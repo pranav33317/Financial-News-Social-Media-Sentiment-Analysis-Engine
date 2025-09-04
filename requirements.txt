@@ -1,0 +1,14 @@
+beautifulsoup4
+requests
+pandas
+sqlalchemy
+nltk
+spacy
+transformers
+torch
+scikit-learn
+tweepy
+matplotlib
+seaborn
+streamlit
+pyyaml

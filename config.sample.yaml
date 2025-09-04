@@ -1,0 +1,12 @@
+twitter:
+  bearer_token: "YOUR_TWITTER_BEARER_TOKEN"
+
+news_sources:
+  yahoo: true
+  moneycontrol: true
+
+database:
+  uri: "sqlite:///data/sentiment.db"
+
+model:
+  use_finbert: true
